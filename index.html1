@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Karamjot Singh's Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        h1, h2, h3, h4, h5, h6 {
+            margin-top: 0;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="section">
+            <h1>Karamjot Singh</h1>
+            <p>Email: karamsran549@gmail.com</p>
+            <p>Address: 63 Yardley cres, L6X 5L7, Brampton ON, Canada</p>
+        </div>
+        <div class="section">
+            <h2>Education</h2>
+            <p>Pursuing Computer Programming Diploma | Niagara College Toronto</p>
+            <p>Completed Senior Secondary Education with non-medical stream</p>
+        </div>
+        <di
